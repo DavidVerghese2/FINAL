@@ -1,0 +1,65 @@
+/*!
+ * Start Bootstrap - Thumbnail Gallery (http://startbootstrap.com/)
+ * Copyright 2013-2016 Start Bootstrap
+ * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap/blob/gh-pages/LICENSE)
+ */
+
+body {
+    padding-top: 70px;
+    color: #color: #800000;
+    background-color: lightblue;
+    font-family: "Times New Roman", Times, serif;
+    /* Required padding for .navbar-fixed-top. Change if height of navigation changes. */
+}
+
+nav {
+    color: #FFFFFF;
+}
+
+text {
+    color: #FFFF00;
+}
+
+.thumb {
+    margin-bottom: 30px;
+    padding: 15px;
+    height: 200px;
+    color: #800000;
+    background-color: lightblue;
+    font-family: "Times New Roman", Times, serif;
+}
+
+.portrait {
+    margin-bottom: 30px;
+    height: 300px;
+    width: 400px;
+    background-color: lightblue;
+    font-family: "Times New Roman", Times, serif;
+    font-size: 14px;
+}
+
+.davidface {
+    margin-bottom: 20px;
+    height: 200px;
+    display: block;
+    padding: 30px;
+    color: #800000;
+    font-size: 20px;
+    font-family: "Times New Roman", Times, serif;
+}
+
+.row {
+    font-size: 20px;
+    font-family: "Times New Roman", Times, serif;
+}
+
+.bio {
+    margin-left: 450px;
+    font-size: 16px;
+    font-family: "Arial", Times, serif;
+    font-style: italic;
+}
+
+footer {
+    margin: 50px 0;
+}
